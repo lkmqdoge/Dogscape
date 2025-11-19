@@ -2,4 +2,3 @@ bin
 obj 
 .envrc
 .direnv/
-.vscode
